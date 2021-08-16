@@ -1,0 +1,14 @@
+{
+    "name": "nexio/laravel-bootstrap-components",
+    "description": "laravel components in bootstrap",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nirmal Pradeepa",
+            "email": "37658724+White-N-Rose@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
